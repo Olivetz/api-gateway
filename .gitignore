@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> d2568e5 (api gateway solamente con servicio de autenticacion)
 # These are some examples of commonly ignored file patterns.
 # You should customize this list as applicable to your project.
 # Learn more about .gitignore:
@@ -48,3 +52,9 @@ Thumbs.db
 *.mov
 *.wmv
 
+<<<<<<< HEAD
+=======
+=======
+node_modules
+>>>>>>> b291bb6 (Api gateway para buscar clientes)
+>>>>>>> d2568e5 (api gateway solamente con servicio de autenticacion)
