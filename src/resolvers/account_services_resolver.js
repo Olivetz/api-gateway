@@ -11,7 +11,7 @@ const accountServicesResolver = {
     },
     Mutation: {
         newAccountService: async(root, args, { dataSources }) => {
-            return await dataSources.AccountServicesAPI.newAccount(args);
+            return await dataSources.AccountServicesAPI.newAccountService(args);
         },
         updateAccount: async(root, args, { dataSources }) => {
             return await dataSources.AccountServicesAPI.updateAccount(args);
