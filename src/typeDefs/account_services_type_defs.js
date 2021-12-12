@@ -37,7 +37,7 @@ const accountServicesTypeDefs = gql`
             tip_user:       String!
         ): AccountP
         updateAccount(
-            id: String
+            id: String!
             name:           String!
             tip_document:   String!
             num_document:   Int!
